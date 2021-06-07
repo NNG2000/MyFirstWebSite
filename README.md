@@ -1,1 +1,1 @@
-# This projet is for learn how to create a dynamic web page.
+# This projet is for learn how to create a dynamic web site.
