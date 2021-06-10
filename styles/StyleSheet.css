@@ -90,8 +90,21 @@ footer{
 }
 .imgRight{
     float: right;
-    width: 200px;
-    height: 250px;
+    width: 240px;
+    height: 150px;
     margin: 0px 0 10px 10px;
     padding: 10px;
+}
+#modifHomeFrst{
+    height: 200px;
+    
+}
+#modifHomeScd{
+    margin: 10px 0;
+    height: 180px;
+    
+}
+#modifHomeThd{
+    height: 180px;
+    
 }
