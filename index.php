@@ -21,4 +21,3 @@ to all children and young children.</p>
  
  include 'Template.php';
 ?>
-<div> </div>
